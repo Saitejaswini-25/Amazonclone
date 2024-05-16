@@ -1,2 +1,4 @@
 # Amazonclone
-This repository contains Amazon clone with HTML,CSS [Frontend]
+Amazon clone created using html,css
+<br>
+

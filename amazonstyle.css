@@ -1,0 +1,227 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+.navbar{
+    height: 54px;
+    background-color: black;
+    display: flex;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.classlogo{
+    height: 50px;
+    width: 100px;
+}
+.logo{
+    height: 50px;
+    background-image: url("https://image-proxy.teamsi.com/?url=https://www.arkansasedc.com/images/default-source/default-album/amazon-dark-logo-png-transparent.png?sfvrsn=83e65452_0?fmt=jpeg&mode=crop&q=70");
+background-size:cover ;
+}
+.border{
+    border: 1px solid transparent;
+}
+.border:hover{
+    border: 2px solid white;
+}
+.addfirst{
+   
+    font-size: 0.85rem;
+    margin-left: 15px;
+}
+.addsecond{
+
+    font-size: 1rem;
+    margin-left: 3px;
+}
+.addicon{
+    display: flex;
+    align-items: center;
+}
+.navsearch{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: navajowhite;
+    width: 620px;
+    height: 40px;
+    border-radius: 4px;
+}
+.searchselect{
+    background-color: #f3f3f3;
+    width: 50px;
+    text-align: center;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: none;
+}
+.searchinput{
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+}
+.searchicon{
+    width: 45px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 1.2rem;
+   background-color: #febd68;
+   border-bottom-right-radius: 4px;
+   border-top-right-radius: 4px;
+   color: #0f110f;
+}
+.navsearch:hover{
+    border: 2px solid orange;
+}
+span{
+    font-size: 0.75rem;
+}
+.navsecond{
+    font-size: 0.89rem;
+    font-weight: 700;
+}
+.navcart i{
+ font-size: 30px;
+}
+.navcart{
+    font-size: 0.85rem;
+    font-weight: 40;
+}
+.pannel{
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    color: #f3f3f3;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.panneloptions p{
+    display: inline;
+    margin-left: 15px;
+}
+.panneloptions{
+    width: 70%;
+    font-size: 0.85rem;
+}
+.panneldeals{
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+.herosection{
+    height: 350px;
+    background-image: url("https://m.media-amazon.com/images/I/71VBt4eTg3L._SX3000_.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.heromsg{
+    background-color: white;
+    color:black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+   width: 80%;
+   margin-bottom: 25px;
+}
+.heromsg a{
+    color: #007185;
+}
+.shopsection{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+    background-color: pink ;
+}
+.shopsection a{
+
+    color: #007185;
+}
+.box{
+    /*border: 2px solid black;*/
+    height: 400px;
+    width: 23%;
+    background-color: #f3f3f3;
+    padding: 20px 0px 15px;
+    margin-top: 5px;
+}
+.boxing{
+    height: 300px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.boxcontent{
+   margin-left: 10px;
+   margin-right: 10px;
+}
+.boxcontent p{
+    color:#007185;
+}
+.footer{
+    margin-top: 15px;
+}
+.footpanel1{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+}
+.footpanel2{
+    background-color: #222f3d;
+    color: white;
+   height: 300px;
+   display: flex;
+   justify-content: space-evenly;
+}
+ul{
+    margin-top: 20px;
+}
+ul a{
+ display: block;
+ font-size: 0.85rem;
+ margin-top: 10px;
+ color: #dddddd;
+}
+.footpanel3{
+    background-color: #222f3d;
+    color: white;
+    border-top: 0.5px solid white;
+    height: 70px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.logo{
+    height: 50px;
+    background-image: url("https://image-proxy.teamsi.com/?url=https://www.arkansasedc.com/images/default-source/default-album/amazon-dark-logo-png-transparent.png?sfvrsn=83e65452_0?fmt=jpeg&mode=crop&q=70");
+background-size:cover ;
+width: 100px;
+}
+.footpanel4{
+    background-color:black;
+    color: white;
+    height: 100px;
+ 
+
+}
+.pages{
+font-size: 0.7rem;
+text-align: center;
+padding-top: 25px;
+}
+.copyright{
+    padding-top: 5px;
+    font-size: 0.7rem;
+    text-align: center;
+}

@@ -18,3 +18,6 @@ This is a simple clone of the **Amazon landing page**, built using only **HTML**
 - CSS3 
 ## live 
 [live demo](https://saitejaswini-25.github.io/Amazonclone/)
+## Images
+![img1](screenshot1.png)
+![img2](screenshot2.png)
